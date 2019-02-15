@@ -1,6 +1,10 @@
 
+#img-div{
+    width: 80%;
+    margin: 0 auto;
+}
 
-#img{
+#img-div #img{
     background-color: black;
-    width: 600px; 
+    width: 100%; 
 }
