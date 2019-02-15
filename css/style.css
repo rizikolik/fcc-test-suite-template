@@ -1,24 +1,16 @@
 
 #img-div{
-   
-    width:800px;
-    align-content: center;
-
-   
-    background-color: black;
-    
-}
-
-#img{
     width:100%;
-    max-width: 400px;
-    display:inline;
-
-    
-    margin:0 auto;
-    
-     
-    
-    
 }
+
+#image{
+    display: block;
+    width:80%;
+    max-width: 80%;
+    margin-left: 0%;
+    margin-right: 0%   
+}
+
+
+
 
